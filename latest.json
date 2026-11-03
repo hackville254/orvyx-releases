@@ -1,0 +1,40 @@
+{
+  "version": "0.7.0",
+  "channel": "stable",
+  "publishedAt": "2026-11-03T02:45:00Z",
+  "downloads": [
+    {
+      "id": "mac-arm64-dmg",
+      "os": "mac",
+      "platform": "macOS",
+      "arch": "Apple Silicon",
+      "description": "Installateur natif",
+      "format": "DMG",
+      "filename": "ORVYX.dmg",
+      "size": 213437505,
+      "sha256": "bc8e8affc4093a3bcbe6687d0a87498464045a69fce30b33da122a34b3a95cc2"
+    },
+    {
+      "id": "mac-arm64-zip",
+      "os": "mac",
+      "platform": "macOS",
+      "arch": "Apple Silicon",
+      "description": "Archive portable",
+      "format": "ZIP",
+      "filename": "ORVYX-darwin-arm64-0.7.0.zip",
+      "size": 228955631,
+      "sha256": "35e7077c7b50cf74533c65f27c1cb6abcd3e268d778764695a18ea54662bde40"
+    },
+    {
+      "id": "windows-x64-zip",
+      "os": "windows",
+      "platform": "Windows",
+      "arch": "x64",
+      "description": "Archive portable",
+      "format": "ZIP",
+      "filename": "ORVYX-win32-x64-0.7.0.zip",
+      "size": 248803767,
+      "sha256": "bdc0d3c01da6d79720cdeca471cd357ea6bb5abcfbe84b9ab57ce5f61f4a9c8a"
+    }
+  ]
+}
