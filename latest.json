@@ -1,7 +1,7 @@
 {
-  "version": "0.7.10",
+  "version": "0.7.11",
   "channel": "stable",
-  "publishedAt": "2026-11-08T03:33:30Z",
+  "publishedAt": "2026-11-08T03:58:20Z",
   "downloads": [
     {
       "id": "mac-arm64-dmg",
@@ -11,8 +11,8 @@
       "description": "Installateur natif",
       "format": "DMG",
       "filename": "ORVYX.dmg",
-      "size": 216261902,
-      "sha256": "72f4d9710a601699668832d483a3bda51487cb962ce339e84071a433db5d668c"
+      "size": 216268400,
+      "sha256": "b35d2ef771f26701a6b0dac4f5ef97bbd67e1ba33fd7c49cf0980a987eec4b92"
     },
     {
       "id": "mac-arm64-zip",
@@ -21,9 +21,9 @@
       "arch": "Apple Silicon",
       "description": "Archive portable",
       "format": "ZIP",
-      "filename": "ORVYX-darwin-arm64-0.7.10.zip",
-      "size": 228190382,
-      "sha256": "e8b5fc6ebcfa3ed772055b42a934a45a1b2811a0c064b6bfa789ff74e9e1685f"
+      "filename": "ORVYX-darwin-arm64-0.7.11.zip",
+      "size": 228191701,
+      "sha256": "a403e9831646dd20a7b7e0713ac6785b485ccc052ea16959126d66692dacf12b"
     },
     {
       "id": "windows-x64-exe",
@@ -32,9 +32,9 @@
       "arch": "x64",
       "description": "Installateur natif",
       "format": "EXE",
-      "filename": "ORVYX-0.7.10-setup.exe",
-      "size": 230918656,
-      "sha256": "a8c865369681735f10f85c7669ce001e090dbc1e47910fdd6e8c743a849f6c2e"
+      "filename": "ORVYX-0.7.11-setup.exe",
+      "size": 230891520,
+      "sha256": "2a9a2bd7b96eb5a45b0cda8cbfe0be1e40ffd150e36430dfd2ff11b53814ad0a"
     },
     {
       "id": "windows-x64-zip",
@@ -43,9 +43,9 @@
       "arch": "x64",
       "description": "Archive portable",
       "format": "ZIP",
-      "filename": "ORVYX-win32-x64-0.7.10.zip",
-      "size": 241498271,
-      "sha256": "e6e5559a14d20e19609b991857b2a05e553a68aa100ac6054aed88dfa158606b"
+      "filename": "ORVYX-win32-x64-0.7.11.zip",
+      "size": 241499505,
+      "sha256": "7b26a4ed1ca0fa7e45f8700082738b6c3d47f3c9c97c6ed606adfd2b6a201315"
     }
   ]
 }
